@@ -1,3 +1,3 @@
 # Projects
 
-This repository consists a list of my personal projects.
+This repository contains my personal projects.
